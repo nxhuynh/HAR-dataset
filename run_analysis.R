@@ -8,8 +8,8 @@ x <- rbindlist(list(x_train, x_test))
 
 # 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 f <- fread("UCI HAR Dataset/features.txt")
-f1 <- grep("mean()", f$V2)
-f2 <- grep("std()", f$V2)
+f1 <- grep("mean\\(\\)", f$V2)
+f2 <- grep("std\\(\\)", f$V2)
 dataset <- x[,sort(c(f1,f2)), with=FALSE]
 
 # 3. Uses descriptive activity names to name the activities in the data set
@@ -54,5 +54,5 @@ for (j in 1:length(features)){
     ds2[[features[j]]] <- col_buf
 }
 
-write.csv(dataset, "Dataset1.csv", row.names=FALSE)
-write.csv(ds2, "Dataset2.csv", row.names=FALSE)
+write.table(dataset, "Dataset1.txt", row.names=FALSE)
+write.table(ds2, "Dataset2.txt", row.names=FALSE)
