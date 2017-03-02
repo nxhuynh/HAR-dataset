@@ -1,0 +1,66 @@
+Time Domain Body Accelerometer Mean X
+Time Domain Body Accelerometer Mean Y
+Time Domain Body Accelerometer Mean Z
+Time Domain Gravity Accelerometer Mean X
+Time Domain Gravity Accelerometer Mean Y
+Time Domain Gravity Accelerometer Mean Z
+Time Domain Body Accelerometer Jerk Mean X
+Time Domain Body Accelerometer Jerk Mean Y
+Time Domain Body Accelerometer Jerk Mean Z
+Time Domain Body Gyroscope Mean X
+Time Domain Body Gyroscope Mean Y
+Time Domain Body Gyroscope Mean Z
+Time Domain Body Gyroscope Jerk Mean X
+Time Domain Body Gyroscope Jerk Mean Y
+Time Domain Body Gyroscope Jerk Mean Z
+Time Domain Body Accelerometer Magnitude Mean
+Time Domain Gravity Accelerometer Magnitude Mean
+Time Domain Body Accelerometer Jerk Magnitude Mean
+Time Domain Body Gyroscope Magnitude Mean
+Time Domain Body Gyroscope Jerk Magnitude Mean
+Frequency Domain Body Accelerometer Mean X
+Frequency Domain Body Accelerometer Mean Y
+Frequency Domain Body Accelerometer Mean Z
+Frequency Domain Body Accelerometer Jerk Mean X
+Frequency Domain Body Accelerometer Jerk Mean Y
+Frequency Domain Body Accelerometer Jerk Mean Z
+Frequency Domain Body Gyroscope Mean X
+Frequency Domain Body Gyroscope Mean Y
+Frequency Domain Body Gyroscope Mean Z
+Frequency Domain Body Accelerometer Magnitude Mean
+Frequency Domain BodyBody Accelerometer Jerk Magnitude Mean
+Frequency Domain BodyBody Gyroscope Magnitude Mean
+Frequency Domain BodyBody Gyroscope Jerk Magnitude Mean
+Time Domain Body Accelerometer Standard Deviation X
+Time Domain Body Accelerometer Standard Deviation Y
+Time Domain Body Accelerometer Standard Deviation Z
+Time Domain Gravity Accelerometer Standard Deviation X
+Time Domain Gravity Accelerometer Standard Deviation Y
+Time Domain Gravity Accelerometer Standard Deviation Z
+Time Domain Body Accelerometer Jerk Standard Deviation X
+Time Domain Body Accelerometer Jerk Standard Deviation Y
+Time Domain Body Accelerometer Jerk Standard Deviation Z
+Time Domain Body Gyroscope Standard Deviation X
+Time Domain Body Gyroscope Standard Deviation Y
+Time Domain Body Gyroscope Standard Deviation Z
+Time Domain Body Gyroscope Jerk Standard Deviation X
+Time Domain Body Gyroscope Jerk Standard Deviation Y
+Time Domain Body Gyroscope Jerk Standard Deviation Z
+Time Domain Body Accelerometer Magnitude Standard Deviation
+Time Domain Gravity Accelerometer Magnitude Standard Deviation
+Time Domain Body Accelerometer Jerk Magnitude Standard Deviation
+Time Domain Body Gyroscope Magnitude Standard Deviation
+Time Domain Body Gyroscope Jerk Magnitude Standard Deviation
+Frequency Domain Body Accelerometer Standard Deviation X
+Frequency Domain Body Accelerometer Standard Deviation Y
+Frequency Domain Body Accelerometer Standard Deviation Z
+Frequency Domain Body Accelerometer Jerk Standard Deviation X
+Frequency Domain Body Accelerometer Jerk Standard Deviation Y
+Frequency Domain Body Accelerometer Jerk Standard Deviation Z
+Frequency Domain Body Gyroscope Standard Deviation X
+Frequency Domain Body Gyroscope Standard Deviation Y
+Frequency Domain Body Gyroscope Standard Deviation Z
+Frequency Domain Body Accelerometer Magnitude Standard Deviation
+Frequency Domain BodyBody Accelerometer Jerk Magnitude Standard Deviation
+Frequency Domain BodyBody Gyroscope Magnitude Standard Deviation
+Frequency Domain BodyBody Gyroscope Jerk Magnitude Standard Deviation
