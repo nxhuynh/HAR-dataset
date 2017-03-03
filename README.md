@@ -9,10 +9,10 @@ This repo contains a version of the UCI HAR dataset as followed:
 	with the average of each variable for each activity and each subject.
 
 ### Files included:
-* Dataset1.csv - result of step 1-4
-* Dataset2.csv - result of step 5
-* features_info.txt - explanation of the features
-* features.txt - list of features
+* Dataset1.txt - result of step 1-4
+* Dataset2.txt - result of step 5
+* codebook.md - explanation of the features
+* features.txt - full list of features
 * README.md 
 * run_analysis.R - the script to process the HAR dataset
 

@@ -1,7 +1,12 @@
-Feature Selection 
+#Features of this dataset 
 =================
 
-The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals Time Domain Accelerometer-XYZ and Time Domain Gyroscope-XYZ. These time domain signals were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and gravity acceleration signals (Time Domain Body Accelerometer-XYZ and Time Domain Gravity Accelerometer-XYZ) using another low pass Butterworth filter with a corner frequency of 0.3 Hz. 
+At a high level, the dataset contains the following:
+* Subject: id of the participant
+* Activity: the activity that the subject was doing during data collection
+* ...: data collected from mobile sensors
+
+The ... features selected for this database come from the accelerometer and gyroscope 3-axial raw signals Time Domain Accelerometer-XYZ and Time Domain Gyroscope-XYZ. These time domain signals were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and gravity acceleration signals (Time Domain Body Accelerometer-XYZ and Time Domain Gravity Accelerometer-XYZ) using another low pass Butterworth filter with a corner frequency of 0.3 Hz. 
 
 Subsequently, the body linear acceleration and angular velocity were derived in time to obtain Jerk signals (Time Domain Body Accelerometer Jerk-XYZ and Time Domain Body Gyroscope Jerk-XYZ). Also the magnitude of these three-dimensional signals were calculated using the Euclidean norm (Time Domain Body Accelerometer Magnitude, Time Domain Gravity Accelerometer Magnitude, Time Domain Body Accelerometer Jerk Magnitude, Time Domain Body Gyroscope Magnitude, Time Domain Body Gyroscope Jerk Magnitude). 
 

@@ -1,3 +1,5 @@
+Subject
+Activity
 Time Domain Body Accelerometer Mean X
 Time Domain Body Accelerometer Mean Y
 Time Domain Body Accelerometer Mean Z
